@@ -1,0 +1,17 @@
+// SPDX-License-Identifier: MIT
+pragma solidity ^0.8.0;
+
+contract AuthenticationContract {
+    mapping(bytes32 => string) private users;
+
+    // Função para registrar um novo usuário
+    function registerUser(string memory username, bytes32 passwordHash) public {
+        require(bytes(users[passwordHash]).length == 0, "User already exists");
+        users[passwordHash] = username;
+    }
+
+    // Função para verificar a autenticação do usuário
+    function authenticateUser(bytes32 passwordHash) public view returns (string memory) {
+        return users[passwordHash];
+    }
+}
