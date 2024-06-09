@@ -1,10 +1,14 @@
-# 🔱 POSEIDOM v4 - Blockchain  🔱
+# 🔱 POSEIDOM v4 - Blockchain 🔱
 
 ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)
 ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white)
 ![HTML](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![Shell](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![Flutter](https://img.shields.io/badge/flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
+![CSS](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
 
 ---
 
@@ -72,8 +76,7 @@ We are excited to announce the integration of the Horigami FX engine into the PO
 - **Scalability:** Optimized for high performance, supporting a larger number of transactions per second.
 - **Interoperability:** Seamless integration with other blockchain networks and services.
 
-
-6. **Interacting with POSEIDOM Enhanced by Horigami FX:**
+### Interacting with POSEIDOM Enhanced by Horigami FX:
    - Utilize the new REST API endpoints provided by Horigami FX for advanced token management.
    - Explore the enhanced features and improved performance of the platform.
 
