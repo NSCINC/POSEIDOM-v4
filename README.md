@@ -97,7 +97,7 @@ Starting January 2026, Horigami FX will begin the selection process for new user
 - **Compliance Checks:** Ensuring adherence to regulatory requirements for secure and transparent transactions.
 
 The Horigami FX app will be available on:
-<img src="logo5.png"/>
+<img src="logoa.png"/>
 ![Apple Store](https://img.shields.io/badge/apple_store-%23000000.svg?style=for-the-badge&logo=apple&logoColor=white)
 ![Google Play Store](https://img.shields.io/badge/google_play-%230078D4.svg?style=for-the-badge&logo=google-play&logoColor=white)
 ## Contribution:
