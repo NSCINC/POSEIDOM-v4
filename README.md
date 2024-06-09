@@ -82,7 +82,21 @@ We are excited to announce the integration of the Horigami FX engine into the PO
 
 ### Horigami FX App Development:
 
-While POSEIDOM will be utilized within the Horigami ecosystem, it is important to note that the Horigami FX app is still in development. This app aims to bring advanced tokenization mechanics and AI-powered features to users, making blockchain interactions more efficient and secure. The Horigami FX app will be available on:
+While POSEIDOM will be utilized within the Horigami ecosystem, it is important to note that the Horigami FX app is still in development. This app aims to bring advanced tokenization mechanics and AI-powered features to users, making blockchain interactions more efficient and secure. 
+
+### Expected Launch Date:
+The Horigami FX app is slated for release in December 2025. 
+
+### Tradable Assets Concept:
+The Horigami FX platform will introduce tradable digital assets, which can be bought, sold, and exchanged within the ecosystem. These assets will represent a variety of real-world and digital commodities, ensuring liquidity and diverse investment opportunities.
+
+### Fintech Registration Process:
+Starting January 2026, Horigami FX will begin the selection process for new users to register on the fintech platform. This process will include:
+- **Identity Verification:** Ensuring the security and integrity of all participants.
+- **Asset Evaluation:** Vetting and validating the assets to be traded on the platform.
+- **Compliance Checks:** Ensuring adherence to regulatory requirements for secure and transparent transactions.
+
+The Horigami FX app will be available on:
 
 ![Apple Store](https://img.shields.io/badge/apple_store-%23000000.svg?style=for-the-badge&logo=apple&logoColor=white)
 ![Google Play Store](https://img.shields.io/badge/google_play-%230078D4.svg?style=for-the-badge&logo=google-play&logoColor=white)
