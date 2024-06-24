@@ -62,7 +62,7 @@ HOLLOW NET stands at the forefront of blockchain innovation, providing a powerfu
 
 For more information, visit [HOLLOW NET]
 
-](https://nscio.vercel.app/)
----
+(https://nscio.vercel.app/)
+FOUDR:LUCAS JANAURIO DO NASCIMENTO 
 
 This text provides an overview of HOLLOW NET, highlighting its features, integrations, and capabilities in advancing decentralized applications and digital asset management.
